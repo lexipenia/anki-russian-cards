@@ -10,7 +10,7 @@ This tool will:
 
 Cards are output into a tab-separated `.txt` file for import into Anki, in the order `{{front}} {{example sentence}} {{back}}`. The path to this file should be specified in `save_directory` at the beginning of the script.
 
-Initial data is fetched using [@FreddieDeWitt/google-translate-extended-api](https://github.com/FreddieDeWitt/google-translate-extended-api). Roots are searched on https://ru.wiktionary.org/.
+Initial data is fetched using [@FreddieDeWitt/google-translate-extended-api](https://github.com/FreddieDeWitt/google-translate-extended-api). Accents are searched on https://ru.wiktionary.org/.
 
 ## Dependencies
 ```
